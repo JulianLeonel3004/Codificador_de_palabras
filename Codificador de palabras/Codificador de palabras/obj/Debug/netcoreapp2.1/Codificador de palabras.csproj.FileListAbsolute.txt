@@ -1,0 +1,11 @@
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\bin\Debug\netcoreapp2.1\Codificador de palabras.deps.json
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\bin\Debug\netcoreapp2.1\Codificador de palabras.runtimeconfig.json
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\bin\Debug\netcoreapp2.1\Codificador de palabras.runtimeconfig.dev.json
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\bin\Debug\netcoreapp2.1\Codificador de palabras.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\bin\Debug\netcoreapp2.1\Codificador de palabras.pdb
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\obj\Debug\netcoreapp2.1\Codificador de palabras.csproj.CoreCompileInputs.cache
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\obj\Debug\netcoreapp2.1\Codificador de palabras.AssemblyInfoInputs.cache
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\obj\Debug\netcoreapp2.1\Codificador de palabras.AssemblyInfo.cs
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\obj\Debug\netcoreapp2.1\Codificador de palabras.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\obj\Debug\netcoreapp2.1\Codificador de palabras.pdb
+C:\Users\julialopez\Desktop\Codificador de palabras\Codificador de palabras\obj\Debug\netcoreapp2.1\Codificador de palabras.csprojAssemblyReference.cache

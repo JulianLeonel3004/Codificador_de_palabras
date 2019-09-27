@@ -1,0 +1,18 @@
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Frases de prueba.deps.json
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Frases de prueba.runtimeconfig.json
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Frases de prueba.runtimeconfig.dev.json
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Frases de prueba.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Frases de prueba.pdb
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Codificador de palabras.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\bin\Debug\netcoreapp2.1\Codificador de palabras.pdb
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\obj\Debug\netcoreapp2.1\Frases de prueba.csprojAssemblyReference.cache
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\obj\Debug\netcoreapp2.1\Frases de prueba.csproj.CoreCompileInputs.cache
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\obj\Debug\netcoreapp2.1\Frases de prueba.AssemblyInfoInputs.cache
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\obj\Debug\netcoreapp2.1\Frases de prueba.AssemblyInfo.cs
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\obj\Debug\netcoreapp2.1\Frases de prueba.csproj.CopyComplete
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\obj\Debug\netcoreapp2.1\Frases de prueba.dll
+C:\Users\julialopez\Desktop\Codificador de palabras\Frases de prueba\obj\Debug\netcoreapp2.1\Frases de prueba.pdb
